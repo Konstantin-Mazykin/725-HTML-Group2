@@ -47,7 +47,7 @@
     font-family: Roboto;
 }
 .submit_form input[type="submit"] {
-    padding: 5px 15px;
+    padding: 10px 40px;
     border: 1px solid lightgray;
     border-radius: 5px;
     margin-top: 10px;
