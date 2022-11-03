@@ -1,0 +1,80 @@
+.flex_gorisont {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.img_size {
+    min-width: 50px;
+}
+
+.img_form {
+    border: 1px solid transparent;
+    border-radius: 50%;        
+}
+.flex_lincs {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.flex_vertical {
+    flex-direction: column;
+    display: flex;
+    align-content: center;
+}
+.header {
+    background-color: yellowgreen;
+    text-align: center;
+    overflow: auto;
+    font-family: Lobster;
+}
+.footer {
+    background-color: yellowgreen;
+    text-align: right;
+    overflow: auto;
+    padding: 20px;
+    margin-top: 30px;
+    font-size: smaller;
+}
+.size_link {
+    width: 200px;
+}
+.submit_form input[type="text"], .submit_form textarea {
+    padding: 10px;
+    margin: 10px 0 10px 0;
+    border: 1px solid;
+    border-radius: 5px;
+    outline: none;
+    font-family: Roboto;
+}
+.submit_form input[type="submit"] {
+    padding: 5px 15px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+.submit_form input[type="submit"]:hover {
+    background-color: darkgray;
+    color: white;
+    border: 1px solid c;
+    font-family: Roboto;
+    font-weight: bold;
+}
+.section_title {
+    text-align: center;
+    background-color: lightgray;
+    font-family: Lobster;
+}
+
+.input_fields {
+    text-align: center;
+}
+p, ul, .back, .checkbox {
+  margin-left: 30px; 
+  font-family: Roboto;
+  font-size: 14px;
+}
+.int_links {
+    font-family: Roboto;
+}
