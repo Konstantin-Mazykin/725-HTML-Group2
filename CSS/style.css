@@ -75,6 +75,9 @@ p, ul, .back, .checkbox {
   font-family: Roboto;
   font-size: 14px;
 }
+p {
+    text-indent: 1em;
+}
 .int_links {
     font-family: Roboto;
 }
