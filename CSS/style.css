@@ -67,7 +67,7 @@
 .size_link {
     width: 200px;
 }
-.submit_form input[type="text"], .submit_form textarea {
+.submit_form input[type="text"],.submit_form input[type="email"], .submit_form textarea {
     padding: 10px;
     margin: 10px 0 10px 0;
     border: 1px solid;
