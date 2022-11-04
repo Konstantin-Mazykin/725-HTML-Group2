@@ -3,12 +3,13 @@
     overflow: auto;
 }
 .navigation {
-    background-color: rgb(2, 20, 2);
+    background-color: rgb(4, 59, 4);
 }
 .navigation li {
     float: left;
     width: 200px;
     margin-left: 10%;
+    list-style-type: none;
 }
 .navigation a {
     display: block;
