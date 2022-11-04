@@ -107,6 +107,7 @@ p {
 }
 .int_links {
     font-family: Roboto;
+    text-decoration: none;
 }
 .table {
     margin: auto;
