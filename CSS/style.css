@@ -28,11 +28,12 @@
 .flex_gorisont {
     margin-top: 20px;
     display: flex;
+    flex-direction: row;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
 }
 .img_size {
-    min-width: 100px;
+    min-width: 120px;
 }
 
 .img_form {
@@ -99,12 +100,13 @@
     text-align: center;
 }
 p, ul, td, .back, .checkbox {
-  margin-left: 30px; 
+  margin-left: 20px; 
   font-family: Roboto;
   font-size: 14px;
 }
 p {
     text-indent: 1.5em;
+    margin-right: 20px;
 }
 .int_links {
     font-family: Roboto;
